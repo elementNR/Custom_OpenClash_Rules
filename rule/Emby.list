@@ -36,6 +36,13 @@ DOMAIN-SUFFIX,dpx1v6.niceduck.lol
 DOMAIN-SUFFIX,dpx2.niceduck.lol
 DOMAIN-SUFFIX,dpxcf.niceduck.lol
 
+#!常用地址
+DOMAIN-SUFFIX,hxd.asd174.de
+DOMAIN-SUFFIX,emby.asd174.de
+DOMAIN-SUFFIX,dpx1v6.niceduck.lol
+DOMAIN-SUFFIX,dpx2.niceduck.lol
+DOMAIN-SUFFIX,dpxcf.niceduck.lol
+
 #!通用地址
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,niceduck.lol
